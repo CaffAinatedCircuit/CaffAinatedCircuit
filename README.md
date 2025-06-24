@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **contact.rishik.nair@gmail.com**
 
-- 📄 Know about my experiences [resume.google](resume.google)
+- 📄 Know about my experiences [resume](resume.google)
 
 - ⚡ Fun fact **My idea of a good time is pipelining a neural net in Verilog with a coffee in hand ☕🔧**
 
