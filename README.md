@@ -227,12 +227,25 @@ I wish I was normal.
 🔊 static ░▒▓█▓▒░  
 
 THUD. 🧱
-dead-channel hiss
+
+📼 dead-channel hiss
 ---
 
 ## ❌ [2050-11-03 03:17:42 IST] // DATA RETRIEVAL FAILED MISERABLY
-Connection severed.  
-No further logs.
+❌ **FAILURE** // integrity check failed  
+📡 **CONNECTION SEVERED** — uplink drops into dead silence… then a burst of carrier bleed.  
+🛰️ **AUTO-RETRY** … 1 … 2 … 3 … *timeout*
+
+##💽 **DISK ALERT:** *read head desync* → *sector melt* → *write-protect fuse blown*  
+🌫️ A thin ribbon of smoke leaks out of the drive bay like the machine is exhaling its last secret.  
+🔥 Status LEDs strobe wrong colors. One by one, they dim—like stars going out.
+
+##🎥 **VLOG FEED:** frames tear, audio collapses into hiss, and the last image freezes mid-blink.  
+🧱 A dull *thud* from somewhere inside the chassis. Something heavy just fell… or stopped spinning.
+
+##🛑 **END OF LOG**  
+##🗂️ “No further logs.”  
+#⚠️ Archive note: *Device physically compromised. Data retrieval failed miserably.*
 
 
 
