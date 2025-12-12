@@ -1,3 +1,19 @@
+# Prelude
+The first thing that feels wrong isn’t the silence—it’s time itself. A subtle time-field distortion licks the edges of your cockpit instruments, like the system is bending seconds before you even see the stars doing it.
+From your homeworld, Alpha Centauri is a familiar landmark—bright, dependable, measured. So when the long-range sweep flags a small planetary system just outside Alpha Centauri, your instincts say “empty rock,” but the distortion says “look closer,” and that’s when you zoom in. Your vlog overlay auto-stamps the jump like it always does: x: +4.367 ly | y: −0.08 ly | z: +0.14 ly | τ: 17:09:12. The numbers don’t calm you; they only make it official—this isn’t an error, it’s a destination.
+
+You reach a system about 4 light years drom alpha centauri.
+
+The system looks… wounded. Dead satellites drift through the dark like shed skins—metal carcasses with torn panels and snapped antennae, circling as if they forgot the world was over and the signal is gone.The planets atleast whatever remained were broken rocks revolving around a bright young star. Looks like there is life here..atleast was... what do you think Nyx...The pet answered with an alien purr- low, warm and cautious.
+You set course for the third planet from the central star, atleast what remained of it. Not because it looks welcoming, but because it looks like the center of whatever scarred this place. As you drop through the thin, tired atmosphere, you mutter without meaning to: Whatever happened here was...(searching for words). But whatever happened began on this very planet.
+The surface isn’t “barren” the way lifeless worlds are barren. It’s barren the way a room is after something has been taken out of it—forcefully, thoroughly, and with purpose.
+And still, one structure remains: a smooth dome like a sci-fi igloo, half-buried, stubbornly present—an artifact that feels less like shelter and more like apology.
+
+Inside, dust floated in the still air, refusing to settle—like even gravity had trust issues. Then you saw it. A computer. Ancient. **90’s-styled**. Beige edges. Chunky keys. A screen that looked too small for the secrets it might contain. No obvious power. No familiar ports. No hint of how to wake it up.
+
+Nyx pads forward and taps a spot that doesn’t look like anything.
+The computer answers with a click, then a rising whine, then a green blink that feels like an eye opening.
+And that’s when the screen prints the first line:
 # 🗄️ RECOVERED FILE: `RIZ_LABLOG_2050.md` 🕶️
 
 ## 🧾 Source
